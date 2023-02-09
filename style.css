@@ -1,0 +1,36 @@
+
+h1
+{
+ justify-content: center;
+ display: flex;
+ 
+
+}
+.rockimage
+{
+    height: 200px;
+}
+.paperimage
+{
+    height: 200px;
+}
+.scissorimage
+{
+    height: 200px;
+}
+.displayresult
+{
+    font-size: 50px;
+    font-weight: 100px;
+    
+}
+.displayresult > p
+{
+    justify-content: center;
+    display: flex;
+}
+.wholepages
+{
+   margin-top: 20vh;
+
+}
